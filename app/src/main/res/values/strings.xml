@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">baithuchanhso2</string>
+    <string name="name">name</string>
+    <string name="number">number</string>
+    <string name="gioi_tinh">Gioi Tinh</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_contac">Add Contac</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="call">Call</string>
+    <string name="send_message">Send Message</string>
+    <string name="ban_muon_goi_dien_hay_nhan_tin">Ban muon goi dien hay nhan tin</string>
+</resources>
